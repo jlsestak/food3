@@ -1,0 +1,12 @@
+{
+  "name": "jsestak/328/food3",
+  "authors": [
+    {
+      "name": "Jessica Sestak",
+      "email": "jsestak2@greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
